@@ -27,9 +27,9 @@ We follow the style guidelines for our project. Please review them before making
 # Commit Signature
 We require all commits to be signed off with a Developer Certificate of Origin (DCO). This is to ensure that you have the right to contribute your changes to our project. To sign off your commits, please include the following line in your commit message:
 
-kotlin
-Copy code
-Signed-off-by: John Doe <john.doe@example.com>
+
+``Signed-off-by: John Doe <john.doe@example.com>``
+
 Replace "John Doe" and "john.doe@example.com" with your own name and email address. You can use your Git client's sign-off feature to automate this process.
 
 # Feedback and Support
